@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/calculates_results_stats.py
-#                                                                             
-# PROGRAMMER: KOLAWOLE-JACOBS DEMILADE
-# DATE CREATED: 23/08/2022                                 
-# REVISED DATE: 06/12/2022
-# PURPOSE: Create a function calculates_results_stats that calculates the 
+#          Create a function calculates_results_stats that calculates the 
 #          statistics of the results of the programrun using the classifier's model 
 #          architecture to classify the images. This function will use the 
 #          results in the results dictionary to calculate these statistics. 
@@ -38,7 +31,7 @@
 #            pct_correct_notdogs - percentage of correctly classified NON-dogs
 #
 ##
-# TODO 5: Define calculates_results_stats function below, please be certain to replace None
+#       Define calculates_results_stats function below, please be certain to replace None
 #       in the return statement with the results_stats_dic dictionary that you create 
 #       with this function
 # 
