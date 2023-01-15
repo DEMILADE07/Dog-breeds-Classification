@@ -34,7 +34,7 @@ def classifier(img_path, model_name):
     img_tensor.unsqueeze_(0)
     
     # wrap input in variable, wrap input in variable - no longer needed for
-    # v 0.4 & higher code changed 04/26/2018 by Jennifer S. to handle PyTorch upgrade
+    # v 0.4 & higher
     pytorch_ver = __version__.split('.')
     
     # pytorch versions 0.4 & hihger - Variable depreciated so that it returns
