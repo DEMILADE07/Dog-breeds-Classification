@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/adjust_results4_isadog.py
-#                                                                             
-# PROGRAMMER: KOLAWOLE-JACOBS DEMILADE
-# DATE CREATED: 23/08/2022                                
-# REVISED DATE: 
-# PURPOSE: Create a function adjust_results4_isadog that adjusts the results 
+#          Create a function adjust_results4_isadog that adjusts the results 
 #          dictionary to indicate whether or not the pet image label is of-a-dog, 
 #          and to indicate whether or not the classifier image label is of-a-dog.
 #          All dog labels from both the pet images and the classifier function
@@ -31,7 +24,7 @@
 #           label isn't a dog.
 #
 ##
-# TODO 4: Define adjust_results4_isadog function below, specifically replace the None
+#  4: Define adjust_results4_isadog function below, specifically replace the None
 #       below by the function definition of the adjust_results4_isadog function. 
 #       Notice that this function doesn't return anything because the 
 #       results_dic dictionary that is passed into the function is a mutable 
